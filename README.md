@@ -1,5 +1,7 @@
 # NYC-Metro
 
+Project Description
+
 You are going to work with the NYC metro database, which has the field description attached below.
 
 The main goal is to forecast the number of people that uses the metro. You can let the imagination work and do this the way you prefer, chosing the temporal/spatial sampling rate (by station/turnstile, day/hour/week etc). This choice is part of the challenge.
